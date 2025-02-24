@@ -1,5 +1,5 @@
 ## Demo
-![Demo aplicación](https://github.com/fmm-devs/DI05/images/demo.gif)
+![Demo aplicación](images/demo.gif)
 
 ## Información del alumno
 
